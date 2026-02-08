@@ -18,7 +18,7 @@
     Python, C, Docker, AWS, PostgreSQL
   Projects:
     - <a href="https://github.com/VinayakTiwari1103/shell-scripting-aws">Nextform</a>: Serverless App w/ automatic SMS registration confirmation using AWS + NextJS
-    - <a href="https://portfolio-vinayak.vercel.app/">Digit Classifier</a> PORTFLIO
+    - <a href="https://www.vinayaktiwari.tech/">Digit Classifier</a> PORTFLIO
     - AWS implementation of <a href="https://github.com/VinayakTiwari1103/">Drive</a> and <a href="https://github.com/VinayakTiwari1103/">GUARD BOX</a> using AWS S3
     - Check out other <a href="https://github.com/VinayakTiwari1103?tab=repositories">projects</a>
 
